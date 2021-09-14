@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.Which of the following methods can be successfully used for the cultivation of virus?:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Inoculation into eggs",
+        "b": "Inoculation into embryonated eggs",
+        "c": "Inoculation into human volunteers",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.Which of the following provide chemical, biological and antigenic properties to virus ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Virion",
+        "b": "Envelope",
+        "c": "Capsid",
+        "d": "Nucleocapsid"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3.Viral growth and multiplication in the egg embryo is indicated by-------",
+      "answers": {
+        "a": "Death of the embryo",
+        "b": "Cell damage",
+        "c": "Formation of typical lesions",
+        "d": "All the above"
+      },
+          
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.Routes of viral inoculation in embryonated eggs include:",
+        "answers": {
+          "a": "Intradermal inoculation",
+          "b": "Allantoic cavity inoculation",
+          "c": "Intraperitoneal inoculation",
+          "d": "None of the above"
+        },
+
+            
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }

@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.Which of the following best describes a virus?:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Saprophyte",
+        "b": "Obligate intracellular parasite",
+        "c": "Commensalism",
+        "d": "Anaerobic pathogens"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Animals used for virus cultivation include: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Monkey",
+        "b": "Guinea pig",
+        "c": "Mice",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
-    }
+    },
+
+    {
+      "question": "3. The extracellular infectious particle of virus is:",
+      "answers": {
+        "a": "Virion",
+        "b": "Nucleic acid",
+        "c": "Lipoprotein",
+        "d": "Protein"
+      },
+          
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  The genetic material of a virus:",
+        "answers": {
+          "a": "DNA",
+          "b": "RNA",
+          "c": "Protein",
+          "d": "Either DNA or RNA"
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
